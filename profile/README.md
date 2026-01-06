@@ -12,6 +12,9 @@ Run the `.exe` file to install Delphi DS150E / Autocom and complete driver setup
 
 Launch the software and configure the diagnostic interface.
 
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+
+
 ## 📸 Overview
 ![ds150e-ecu](https://github.com/user-attachments/assets/e82f0864-e47f-4d77-a144-eb76cff4bca3)
 ![ds150e-dashboard](https://github.com/user-attachments/assets/a8306bf2-5e1a-4ad2-b70d-16e6f757b876)
